@@ -75,25 +75,6 @@ class RestaurantTest {
     //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Part3 Total Order Value>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     
 
-//    @Test
-//    public void calculte_total_ordervalue_given_menu_list_in_string() {
-//        restaurant =new Restaurant("Amelie's cafe","Chennai",openingTime,closingTime);
-//        restaurant.addToMenu("Sweet corn soup",119);
-//        restaurant.addToMenu("Vegetable lasagne", 269);
-//        restaurant.addToMenu("Mutton lasagne", 469);
-//        restaurant.addToMenu("Vegetable biriyani", 369);
-//        List<String> Selectedmenu = new ArrayList<String>();
-//        //Test1
-//        Selectedmenu.add(restaurant.getMenu().get(0).getName());
-//        Selectedmenu.add(restaurant.getMenu().get(3).getName());
-//        int totalOrderValue = restaurant.totalOrderValue(Selectedmenu);
-//        Assertions.assertEquals(totalOrderValue,488);
-//
-//        // Test2
-//        Selectedmenu.add(restaurant.getMenu().get(2).getName());
-//        totalOrderValue = restaurant.totalOrderValue(Selectedmenu);
-//        Assertions.assertEquals(totalOrderValue,957);
-//
-//    }
+
     //<<<<<<<<<<<<<<<<<<<<<<<<<<<<Part3 Total Order Value>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 }
